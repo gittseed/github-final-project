@@ -8,3 +8,4 @@ Output
    simple interest = p*t*r
  seed
  seed1
+ seed2
